@@ -7,3 +7,10 @@
 *.exe
 *.pdb
 *.opendb
+*.vcxproj
+*.vcxproj
+*.filters
+*.idb
+*.pdb
+*.pdb
+*.idb
