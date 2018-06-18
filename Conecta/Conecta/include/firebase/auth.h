@@ -4,10 +4,10 @@
 #define FIREBASE_AUTH_CLIENT_CPP_SRC_INCLUDE_FIREBASE_AUTH_H_
 
 #include <vector>
-#include "firebase/app.h"
-#include "firebase/auth/user.h"
-#include "firebase/future.h"
-#include "firebase/internal/common.h"
+#include "app.h"
+#include "auth/user.h"
+#include "future.h"
+#include "internal/common.h"
 
 #if !defined(DOXYGEN)
 FIREBASE_APP_REGISTER_CALLBACKS_REFERENCE(auth)

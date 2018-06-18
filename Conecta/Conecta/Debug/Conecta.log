@@ -1,3 +1,2 @@
-﻿  stdafx.cpp
-  Conecta.cpp
-  Conecta.vcxproj -> C:\Users\rolando\Documents\FireBase\FrenteNorte\Conecta\Debug\Conecta.exe
+﻿  Conecta.cpp
+c:\users\rolando\documents\firebase\frentenorte\conecta\conecta\include\firebase\auth\user.h(9): fatal error C1083: Cannot open include file: 'firebase/auth/credential.h': No such file or directory

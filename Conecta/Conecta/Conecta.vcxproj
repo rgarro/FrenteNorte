@@ -147,7 +147,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="include\firebase\admob.h" />
+    <ClInclude Include="include\firebase\analytics.h" />
     <ClInclude Include="include\firebase\app.h" />
+    <ClInclude Include="include\firebase\auth.h" />
+    <ClInclude Include="include\firebase\database.h" />
+    <ClInclude Include="include\firebase\dynamic_links.h" />
+    <ClInclude Include="include\firebase\future.h" />
+    <ClInclude Include="include\firebase\instance_id.h" />
+    <ClInclude Include="include\firebase\invites.h" />
+    <ClInclude Include="include\firebase\log.h" />
+    <ClInclude Include="include\firebase\messaging.h" />
+    <ClInclude Include="include\firebase\remote_config.h" />
+    <ClInclude Include="include\firebase\storage.h" />
+    <ClInclude Include="include\firebase\util.h" />
+    <ClInclude Include="include\firebase\variant.h" />
+    <ClInclude Include="include\firebase\version.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>

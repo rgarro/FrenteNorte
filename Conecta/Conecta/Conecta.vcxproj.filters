@@ -13,8 +13,8 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Header Files\FireBase">
-      <UniqueIdentifier>{56d7a257-2c30-4eed-8bbb-5eb85967ec12}</UniqueIdentifier>
+    <Filter Include="Header Files\firebase">
+      <UniqueIdentifier>{b3797126-7350-4403-855d-e4defc18c57b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -24,8 +24,53 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="include\firebase\admob.h">
+      <Filter>Header Files\firebase</Filter>
+    </ClInclude>
+    <ClInclude Include="include\firebase\analytics.h">
+      <Filter>Header Files\firebase</Filter>
+    </ClInclude>
     <ClInclude Include="include\firebase\app.h">
-      <Filter>Header Files\FireBase</Filter>
+      <Filter>Header Files\firebase</Filter>
+    </ClInclude>
+    <ClInclude Include="include\firebase\auth.h">
+      <Filter>Header Files\firebase</Filter>
+    </ClInclude>
+    <ClInclude Include="include\firebase\database.h">
+      <Filter>Header Files\firebase</Filter>
+    </ClInclude>
+    <ClInclude Include="include\firebase\dynamic_links.h">
+      <Filter>Header Files\firebase</Filter>
+    </ClInclude>
+    <ClInclude Include="include\firebase\future.h">
+      <Filter>Header Files\firebase</Filter>
+    </ClInclude>
+    <ClInclude Include="include\firebase\instance_id.h">
+      <Filter>Header Files\firebase</Filter>
+    </ClInclude>
+    <ClInclude Include="include\firebase\invites.h">
+      <Filter>Header Files\firebase</Filter>
+    </ClInclude>
+    <ClInclude Include="include\firebase\log.h">
+      <Filter>Header Files\firebase</Filter>
+    </ClInclude>
+    <ClInclude Include="include\firebase\messaging.h">
+      <Filter>Header Files\firebase</Filter>
+    </ClInclude>
+    <ClInclude Include="include\firebase\remote_config.h">
+      <Filter>Header Files\firebase</Filter>
+    </ClInclude>
+    <ClInclude Include="include\firebase\storage.h">
+      <Filter>Header Files\firebase</Filter>
+    </ClInclude>
+    <ClInclude Include="include\firebase\util.h">
+      <Filter>Header Files\firebase</Filter>
+    </ClInclude>
+    <ClInclude Include="include\firebase\variant.h">
+      <Filter>Header Files\firebase</Filter>
+    </ClInclude>
+    <ClInclude Include="include\firebase\version.h">
+      <Filter>Header Files\firebase</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
