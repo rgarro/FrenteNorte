@@ -73,6 +73,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
     <IncludePath>C:\Users\rolando\Downloads\firebase_cpp_sdk\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\rolando\Downloads\firebase_cpp_sdk\libs\windows\VS2015;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
